@@ -7,8 +7,8 @@
     "node": "18.18.2"
   },
   "scripts": {
-    "dev": "nodemon ./src/index.js",
-    "start": "node ./src/index.js"
+    "dev": "nodemon ./src/script.js",
+    "start": "node ./src/script.js"
   },
   "keywords": [],
   "author": "",
